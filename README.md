@@ -84,3 +84,6 @@ Peer Discovery via UDP, Parallel Downloads, Chunk-Based File Transfer, Reseeding
 6. Summary
 This P2P file-sharing system efficiently distributes files using UDP for tracker communication and TCP for file transfers. The protocol ensures reliability, and the heartbeat mechanism prevents stale peers from cluttering the network.
 Ensure IP addresses are updated correctly before running the peer for smooth operation. 🚀
+
+## Acknowledgements
+This was a group assignment including Nikita Martin and Micah Retief
