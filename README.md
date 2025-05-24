@@ -86,4 +86,4 @@ This P2P file-sharing system efficiently distributes files using UDP for tracker
 Ensure IP addresses are updated correctly before running the peer for smooth operation. 🚀
 
 ## Acknowledgements
-This was a group assignment including Nikita Martin and Micah Retief
+This was a group assignment including Nikita Martin (Kita-m17) and Micah Retief
